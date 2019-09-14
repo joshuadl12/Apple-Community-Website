@@ -1,10 +1,11 @@
 {
-    "name": "Great App Name",
+    "name": "Apple Community",
     "description": "Pithy description (132 characters or less, no HTML)",
     "version": "0.0.0.1",
     "manifest_version": 2,
     "icons": {
-      "logo": "img/Logo.png"
+      "logo": "img/Logo.png",
+      “apple-touch-icon”: “img/Logo.png”
     },
     "app": {
       "urls": [
